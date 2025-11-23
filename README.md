@@ -24,18 +24,22 @@ I'm a passionate **Data Scientist** and aspiring **AI Engineer** who loves solvi
 ## 🧩 Featured Projects
 Here are a few of my favorite projects — check them out!
 
-| Project | Description | Tools |
-|----------|--------------|-------|
-|[Grouped_data_with_pandas_and_matplotlib](https://github.com/EngrProsper/Grouped-data-with-pandas-and-matplotlib-) |This project analyzes sales data by grouping it by region using pandas, visualizes results with a dual-axis matplotlib chart (Revenue vs. Units Sold), and exports to an Excel file with openpyxl.
-This project helps analyze sales data for better data-driven-decision-making. | Pandas, Matplotlib, Numpy, openpyxl |
+##Projects
 
+[Grouped_data_with_pandas_and_matplotlib](https://github.com/EngrProsper/Grouped-data-with-pandas-and-matplotlib-) 
+ 
+
+![Brazilian e-commerce analytics](https://github.com/EngrProsper/brazilian-ecommerce-analytics--.git)
 
 ---
 
 ##  How to Reach Me
-- **LinkedIn:** [linkedin.com/in/omoreme-prosper-ogheneochuko-7010b6395](https://linkedin.com/in/omoreme-prosper-ogheneochuko-7010b6395)  
-- **GitHub:** [github.com/EngrProsper](https://github.com/EngrProsper)  
-- **Email:**prospermbape@gmail.com  
+
+- **GitHub:*
+ [github.com/EngrProsper](https://github.com/EngrProsper)  
+- **Email:
+
+**prospermbape@gmail.com  
 
 ---
 
